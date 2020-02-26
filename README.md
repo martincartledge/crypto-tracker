@@ -1,19 +1,23 @@
-# Crypto Tracker
-
-- by Martin Cartledge
+# Crypto Tracker _by Martin Cartledge_
 
 ![mock](https://github.com/martincartledge/crypto-tracker/blob/master/public/mock.png)
 ![mock pt 2](https://github.com/martincartledge/crypto-tracker/blob/master/public/mock_pt_2.png)
 
-### `yarn start`
+### Run Locally
 
-Runs the app in the development mode.<br />
+to run Crypto Tracker locally run this command in your terminal:
+`yarn start`
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`x
+### Tests
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+to run the Crypto Tracker tests (and keep in watch mode):
+`yarn test`
+
+Click for more info on [writing tests for React apps](https://facebook.github.io/create-react-app/docs/running-tests).
+
+### Technologies used: React, Web Sockets API, React Router, Material UI, and Jest
